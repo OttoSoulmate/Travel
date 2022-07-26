@@ -33,4 +33,10 @@
     }
   }
   
+  @media screen and (min-width: 1280px) {
+    .place {
+      grid-template-columns: 460px auto;
+      grid-gap: 48px 40px
+    }
+  }
  
